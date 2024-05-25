@@ -36,10 +36,13 @@ ul {
 }
 
 div {
+     
+}
+#secondary-nav{
     display: flex;
     color: grey;
     flex-direction: column;
-    
+    padding: 10px;
 }
 li {
     list-style: none;
