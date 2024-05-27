@@ -21,7 +21,6 @@ nav {
     justify-content: space-around;
     align-items: center;
     font-size: 1.5rem;
-    
     padding: 1 rem ;
 }
 ul a{
@@ -32,12 +31,10 @@ ul a{
 ul {
     list-style: none;
     display: flex;
-    gap:10px ;
+    gap: 10px;
 }
 
-div {
-     
-}
+
 #secondary-nav{
     display: flex;
     color: grey;
@@ -53,4 +50,11 @@ h1 {
     align-content: center;
     justify-content: center;
     font-size: x-large;
+}
+
+#nosoros {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    color: blue;
 }
