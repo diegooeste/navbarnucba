@@ -52,9 +52,26 @@ h1 {
     font-size: x-large;
 }
 
-#nosoros {
+section {
     display: flex;
     flex-direction: column;
-    padding: 1rem;
-    color: blue;
+    padding: 1.5rem;    
+    color: beige;
+    gap: 7.5px;
+}
+.container {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    background-color: beige;
+    background-position: center;
+    border-radius: 10px;
+    
+}
+.div-imagen {
+    width: auto;
+    height: auto; 
+    border-radius: 7.5px;
+    
 }
