@@ -47,6 +47,7 @@ li {
 
 h1 {
     display: flex;
+    color: bisque;
     align-content: center;
     justify-content: center;
     font-size: x-large;
